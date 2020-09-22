@@ -1,0 +1,1 @@
+logType:Test, logText: Test txt
